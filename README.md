@@ -1,2 +1,2 @@
-# discussion
-💬 The discussion channel for the wiki.
+# 💬 Discussion
+The discussion channel for the wiki.
